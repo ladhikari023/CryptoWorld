@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Installed packages and their usage:
+
+antd @antdesign/icons - For design
+react-redux @reduxjs/toolkit - For state management
+axios - Make HTTP request
+chart.js - Create Charts
+html-react-parser - Parse html data
+millify - Transform extremely large numbers to readable strings
+moment - Parse time and dates
+react-chatjs-2 - Render chart.js in our react application
